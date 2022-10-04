@@ -8,8 +8,8 @@ This is a two week project:
 Project Requirements:
 
 Pick a dataset from the set of datasets for this class (or find your own)
-Create at least 3 data visualizations with Matplotlib
-Use a MS PowerPoint or Google Slides format with one slide for each data visualization
-Include your notes for each data visualization on its slide
-Include a "Conclusions" slide that has at least 3 bullet point conclusions based on your analysis of the data
-Tell us a story with your data
+* Create at least 3 data visualizations with Matplotlib
+* Use a MS PowerPoint or Google Slides format with one slide for each data visualization
+* Include your notes for each data visualization on its slide
+* Include a "Conclusions" slide that has at least 3 bullet point conclusions based on your analysis of the data
+* Tell us a story with your data
