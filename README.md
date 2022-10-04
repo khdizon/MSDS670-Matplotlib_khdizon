@@ -3,8 +3,8 @@ Week5 for MSDS670 Data Visualization: Write the matplotlib code and push to GitH
 
 This is a two week project:
 
-Week 5 - Write the matplotlib code and push to GitHub, submit link
-Week 6 - Add the visualizations to slide deck and finish presentation
+* Week 5 - Write the matplotlib code and push to GitHub, submit link
+* Week 6 - Add the visualizations to slide deck and finish presentation
 Project Requirements:
 
 Pick a dataset from the set of datasets for this class (or find your own)
